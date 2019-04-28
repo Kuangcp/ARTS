@@ -11,9 +11,8 @@
 ## 2019 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| [week 4-1](2019/04/1.md) |  |  |  |
-
+| [week 4-1](2019/04/1.md) | [week 4-2](2019/04/2.md) |  |  |
 
 ## Others
-> [geekwho11](https://github.com/geekwho11/keep.arts.xbcme)
-> [Philon](https://github.com/Philon/arts)
+> [geekwho11](https://github.com/geekwho11/keep.arts.xbcme)  
+> [Philon](https://github.com/Philon/arts)  
